@@ -24,7 +24,7 @@ Perguntas:
 
 - Quais são os departamentos por cidade? 
 
-- Relação de empregrados por departamento 
+- Relação de empregrados por departamento? 
 
 Entregável: 
 
